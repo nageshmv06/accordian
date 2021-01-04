@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/accordian/static/css/main.323f6155.chunk.css",
+    "main.js": "/accordian/static/js/main.a544b2c3.chunk.js",
+    "main.js.map": "/accordian/static/js/main.a544b2c3.chunk.js.map",
+    "runtime-main.js": "/accordian/static/js/runtime-main.6e3e4ddb.js",
+    "runtime-main.js.map": "/accordian/static/js/runtime-main.6e3e4ddb.js.map",
+    "static/js/2.36de4066.chunk.js": "/accordian/static/js/2.36de4066.chunk.js",
+    "static/js/2.36de4066.chunk.js.map": "/accordian/static/js/2.36de4066.chunk.js.map",
+    "index.html": "/accordian/index.html",
+    "precache-manifest.ba581e2d43e6d5417177c3df385741c0.js": "/accordian/precache-manifest.ba581e2d43e6d5417177c3df385741c0.js",
+    "service-worker.js": "/accordian/service-worker.js",
+    "static/css/main.323f6155.chunk.css.map": "/accordian/static/css/main.323f6155.chunk.css.map",
+    "static/js/2.36de4066.chunk.js.LICENSE.txt": "/accordian/static/js/2.36de4066.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e3e4ddb.js",
+    "static/js/2.36de4066.chunk.js",
+    "static/css/main.323f6155.chunk.css",
+    "static/js/main.a544b2c3.chunk.js"
+  ]
+}
